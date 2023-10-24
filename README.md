@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is SIAM
 #### Web Developer
-Hello, This is Siam from Bangladesh. I am a passionate, fast learner, and a hardworking freelancer. I always promise to save my clients time, money, and Brans Value. I am committed to providing excellent and fast service with 100% accuracy of work all the time. I always do my best to establish log-term relationships with my clients. Thanks Siam
+Hello, This is Siam from Bangladesh. I am a passionate, fast learner, and a hardworking Developer. I always promise to save my clients time, money, and Brans Value. I am committed to providing excellent and fast service with 100% accuracy of work all the time. I always do my best to establish log-term relationships with my clients. Thanks Siam
 
 Skills:  REACT / JS / HTML / CSS
 
